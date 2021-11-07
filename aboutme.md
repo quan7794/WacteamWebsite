@@ -1,16 +1,21 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Thông tin về S-Covid
+subtitle: S-Covid là một phần mềm giúp việc khai báo y tế hàng ngày tại công ty Samsung Sehc trở nên thuận tiện hơn.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Các chức năng chính:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Khai báo y tế.
+- Hiển thị lịch sử khai báo.
+- Nhắc nhở khai báo hàng ngày.
+- Tự động khai báo (Chức năng phòng thí nghiệm, bạn chịu hoàn toàn trách nhiệm khi sử dụng).
 
-What else do you need?
+### Nhóm phát triển
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Quan Mai
+![avatar](https://images.theconversation.com/files/350865/original/file-20200803-24-50u91u.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop)
+- Hoang Hy
+![avatar](https://images.theconversation.com/files/350865/original/file-20200803-24-50u91u.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop)
+- Bao Giang
+![avatar](https://images.theconversation.com/files/350865/original/file-20200803-24-50u91u.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop)
