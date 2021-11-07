@@ -1,7 +1,7 @@
 ---
 layout: page
-title: S-Covid
-subtitle: S-Covid là một phần mềm giúp việc khai báo y tế hàng ngày tại công ty Samsung SEHC trở nên thuận tiện hơn.
+title: S-Covid 1.0.0
+subtitle: S-Covid là phần mềm giúp việc khai báo y tế hàng ngày tại công ty Samsung SEHC trở nên thuận tiện hơn.
 ---
 
 ### Các chức năng chính:
