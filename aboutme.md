@@ -1,6 +1,6 @@
 ---
 layout: page
-title: S-Covid 1.0.0
+title: S-Covid 1.1.0
 subtitle: S-Covid là phần mềm giúp việc khai báo y tế hàng ngày tại công ty Samsung SEHC trở nên thuận tiện hơn.
 ---
 
@@ -15,9 +15,6 @@ subtitle: S-Covid là phần mềm giúp việc khai báo y tế hàng ngày t�
 
 ### Nhóm phát triển
 
-- Quan Mai
-![avatar](https://images.theconversation.com/files/350865/original/file-20200803-24-50u91u.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=800&h=800.0&fit=crop)
-- Hoang Hy
-![avatar](https://images.theconversation.com/files/350865/original/file-20200803-24-50u91u.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=800&h=800.0&fit=crop)
-- Bao Giang
-![avatar](https://images.theconversation.com/files/350865/original/file-20200803-24-50u91u.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=800&h=800.0&fit=crop)
+|Quan Mai|Hoang Hy|Bao Giang|
+  |----------------|----------------|----------------|
+  |![avatar](https://images.theconversation.com/files/350865/original/file-20200803-24-50u91u.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=400&h=400.0&fit=crop)|![avatar](https://images.theconversation.com/files/350865/original/file-20200803-24-50u91u.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=400&h=400.0&fit=crop)|![avatar](https://images.theconversation.com/files/350865/original/file-20200803-24-50u91u.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=400&h=400.0&fit=crop)|

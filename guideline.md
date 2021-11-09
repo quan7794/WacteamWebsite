@@ -9,6 +9,7 @@ subtitle: Hướng dẫn sử dụng
 
 - Ngay tại màn hình chính của ứng dụng, bạn có thể thấy ngay giao diện khai báo y tế quen thuộc.
 - Tiến hành khai báo y tế với những thông tin đúng với tình trạng sức khoẻ của bạn.
+    - Lưu ý: Phần thông tin số điện thoại, bạn nên để đầu số "84" thay cho "0".
 - Sau lần khai báo đầu tiên, tất cả những thông tin cơ bản như Họ Tên, Số điện thoại, GenId sẽ tự động được điền sẵn cho lần khai báo tiếp theo.
 
   ||Khai báo thủ công|
