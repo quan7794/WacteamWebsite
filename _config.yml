@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: S-Covid
+title: WacTeam Lab
 
 # Your name to show in the footer
-author: Someone in the S/W VD R&D Android team.
+author: WacTeam Lab.
 
 # --- List of links in the navigation bar --- #
 
@@ -37,7 +37,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "quanmtfu@gmail.com"
+  email: "wacteam.lab@gmail.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
 #  github: daattali
