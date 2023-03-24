@@ -6,17 +6,18 @@
 # --- Required options --- #
 
 # Name of website
-title: WacTeam Lab
+title: WacTeam Labs
 
 # Your name to show in the footer
-author: WacTeam Lab.
+author: WacTeam Labs.
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Thông tin: "aboutme"
-  Hướng dẫn sử dụng: "guideline"
-  Tải về: "download"
+  About us: "aboutus"
+  Privacy Policy: "policy"
+  Term of use: "term"
+  Download: "download"
 
 # --- Logo --- #
 
