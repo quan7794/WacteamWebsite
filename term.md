@@ -1,7 +1,7 @@
 ---
 layout: page
 title: WacTeam Labs
-subtitle: Privacy Policy
+subtitle: Terms of Use
 ---
 
 **Terms of Use**

@@ -4,9 +4,6 @@ title: WacTeam Labs
 subtitle: Privacy Policy
 ---
 
-Privacy Policy
---------------
-
 **Privacy Policy**
 ==================
 

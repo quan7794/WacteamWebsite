@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WacTeam Labs 1.2
+title: WacTeam Labs
 subtitle: About WacTeam Labs.
 ---
 
@@ -14,5 +14,5 @@ With the motto "Innovate Your Life," WacTeam Labs is committed to constantly imp
 
 ### Contact info:
 
-Address: Ho Chi Minh City - Viet Nam
-Email: wacteam.lab@gmail.com
+- Address: Ho Chi Minh City - Viet Nam
+- Email: wacteam.lab@gmail.com
