@@ -246,6 +246,8 @@ exclude:
   - screenshot.png
   - docs/
 
+include:
+  - .well-known/pki-validation/719B604CEFB0445D2DFAF0E205564FC3.txt
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
