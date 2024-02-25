@@ -1,13 +1,13 @@
 ---
 layout: page
-title: WacTeam Labs
+title: Wac Labs
 subtitle: Privacy Policy
 ---
 
 **Privacy Policy**
 ==================
 
-In this Privacy Policy, ‘us’ ‘we’ or ‘our’ means WacTeam Labs. We are committed to respecting your privacy. Our Privacy Policy sets outs out how we collect, use, store and disclose your personal information. By providing personal information to us, you consent to our collection, use, and disclosure of your personal information in accordance with this Privacy Policy and any other arrangements that apply between us. We may change our Privacy Policy from time to time by publishing changes to it on our website. We encourage you to check our website periodically to ensure that you are aware of our current Privacy Policy.
+In this Privacy Policy, ‘us’ ‘we’ or ‘our’ means Wac Labs. We are committed to respecting your privacy. Our Privacy Policy sets outs out how we collect, use, store and disclose your personal information. By providing personal information to us, you consent to our collection, use, and disclosure of your personal information in accordance with this Privacy Policy and any other arrangements that apply between us. We may change our Privacy Policy from time to time by publishing changes to it on our website. We encourage you to check our website periodically to ensure that you are aware of our current Privacy Policy.
 
 ### **What personal information do we collect?**
 
